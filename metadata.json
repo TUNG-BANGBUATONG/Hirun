@@ -1,0 +1,6 @@
+{
+  "name": "ศูนย์ควบคุมดิจิทัลทวิน 3 มิติ — Smart Facility 3D Dashboard",
+  "description": "แดชบอร์ดศูนย์ควบคุมและวิเคราะห์ข้อมูลโครงสร้างพื้นฐานแบบ 3 มิติด้วย Three.js พร้อมระบบตรวจสอบโซนพลังงานและกราฟวิเคราะห์แบบเรียลไทม์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
